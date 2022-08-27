@@ -1,4 +1,4 @@
-# Preparation for AWS Certified Solutions Architect – Professional (SAP-C01)
+# Preparation for AWS Certified Advanced Networking - Specialty (ANS-C01)
 _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan materi belajar. Sumber belajar yang saya dokumentasikan sendiri ini tidak merepresentasikan informasi resmi dari pihak AWS, meskipun beberapa link dan material bersumber resmi dari AWS._
 
 ---
@@ -11,14 +11,14 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 ### 2. Exam Readiness
 - [Exam Readiness: AWS Certified Advanced Networking - Specialty (Digital)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/109/exam-readiness-aws-certified-advanced-networking-specialty-digital)
 
-    > E-learning untuk latihan persiapan ujian Solutions Architect Professional dari AWS. Materi berisikan eksplorasi topik yang keluar di ujian dan beberapa contoh soal ujian. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
+    > E-learning untuk latihan persiapan ujian Advanced Networking - Specialty dari AWS. Materi berisikan eksplorasi topik yang keluar di ujian dan beberapa contoh soal ujian. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
 
 - [AWS Certified Advanced Networking - Specialty (ANS-C01) Sample Exam Questions](https://d1.awsstatic.com/training-and-certification/docs-advnetworking-spec/AWS-Certified-Advanced-Networking-Specialty_Sample-Questions.pdf)
 - [Qubits42 Test Learn](https://www.koenig-solutions.com/aws) **(Unofficial)**
 - [AWS Certified Advanced Networking - Specialty Official Practice Question Set (ANS-C01 - English)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/12676/aws-certified-advanced-networking-specialty-official-practice-question-set-ans-c01-english)
 - [The AWS Certification Quiz Show: Advanced Networking - Specialty exam](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/380/the-aws-certification-quiz-show-advanced-networking-specialty-exam)
 
-    > Beberapa contoh soal untuk mempersiapkan ujian AWS Certified Advanced Networking.
+    > Beberapa contoh soal untuk mempersiapkan ujian Advanced Networking - Specialty.
 
 ## Hands on Lab
 ### 1. Free Labs
